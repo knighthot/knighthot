@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Fikramul Bizli**.  
 Saya seorang **Mahasiswa** di [STT Indonesia Tanjungpinang](https://sttindonesia.ac.id/).  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fikramul-bizli-3731781b1/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fikramul-bizli-3731781b1/) ku ya.
 
 <p align="left">
 <a href="[https://github.com/knighthot">
