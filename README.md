@@ -1,3 +1,4 @@
+<img src="header.png" alt="GitHub Banner" width="100%" />
 <h2 align="left">Hi 👋! My name is Fikramul Bizli and I'm a Mobile Developer, from Bintan Island,Indonesia</h2>
 
 ###
