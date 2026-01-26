@@ -12,6 +12,13 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knighthot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=knighthot&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knighthot&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+<br/>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
@@ -69,6 +76,8 @@
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21tZjdsZnpueGtlNWNiYzc1ZjU2Ym5wNTl0ZHpwZGViYTFkaTUyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/naiatn5LxTOsU/giphy.gif"  />
 
 ###
+
+
 
 <div align="center">
   <a href="https://discordapp.com/users/331138184920694784" target="_blank">
